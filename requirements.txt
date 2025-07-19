@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+celery
+psycopg
+psycopg-binary
+psycopg-pool
+drf-yasg
+django-environ
